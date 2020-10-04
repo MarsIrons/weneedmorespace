@@ -1,0 +1,42 @@
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<head>
+    <meta charset="UTF-8">
+    <title>We Need More Space</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+h1{
+   font-size: 70px;
+   font-family: "nasalization";
+   color: #45a29e;
+}
+h2{
+   color: #45a29e;
+   font-family: "comfortaa-regular";
+}
+h3{
+   font-size: 50px;
+   color: #45a29e;
+   font-family: "comfortaa-regular";
+   margin:3%;
+}
+p{
+   font-size:25px;
+   color: #c5c6c7;
+   font-family: "comfortaa-regular";
+   margin:5%;
+}
+
+</style>
+</head>
+
+<body>
+<img src="grafico1.jpg" style="vertical-align:top">
+This network of space-focused structures will lead to exponential growth in investment in the sector in the coming years, leading it to become a business worth more than USD 1 trillion.
+</body>
+</html>
